@@ -1,4 +1,7 @@
 # VBA-Challenge
+Hi there. My name is Tyler Walje and this is my VBA project. Please reach out with any questions to walje15@gmail.com or (720) 937-7927.
+Thank you.
+
 ## Notes for VBA-Challenge
 1. All necessary files (other than the README.md and Screenshots) are located in the "Resources" folder, within the "VBA_Materials" folder. Please use "Multiple_year_stock_data1.xlsm" as this was the final file I worked on. I also exported the VBA file so it could be viewed separately. That file is called "Module1.bas". The screenshots are both located under the "Screenshots" folder, within the "VBA_Materials" folder.
 2. The requirements for this challenge specify: "Conditional formatting is applied correctly and appropriately to the yearly change column (10 points)" as well as "Conditional formatting is applied correctly and appropriately to the percent change column (10 points)". This was confusing because on the example screenshot provided on the Module 2 Challenge page, it shows Yearly Change as the ONLY column to have Conditional Formatting. It does not show Conditional Formatting on the Percent Change column. Either way, I included Conditional Formatting on both Yearly Change AND Percent Change because that is what the requirements asked for, despite the screenshots not matching the requirements.
